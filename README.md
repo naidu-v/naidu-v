@@ -26,6 +26,13 @@ I am currently a student at **Minneapolis Community and Technical College**, pur
 
 ---
 
+### 📊 GitHub Stats
+
+![Venkat's Stats](https://github-readme-stats.vercel.app/api?username=naidu-v&show_icons=true&theme=radical)
+![Venkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naidu-v&layout=compact&theme=radical)
+
+---
+
 ### 📫 Connect with Me
 
 * 📧 **Email:** [link.rv@icloud.com](mailto:link.rv@icloud.com)
